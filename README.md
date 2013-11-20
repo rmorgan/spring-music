@@ -1,3 +1,5 @@
+![Codeship](https://www.codeship.io/projects/3c87ac10-3465-0131-92d2-228038a705a1/status)
+
 Spring Music
 ============
 
